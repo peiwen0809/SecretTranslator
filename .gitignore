@@ -1,0 +1,7 @@
+# 測試圖片不加入git
+/test_image
+
+# 步驟記錄緩存圖片不加入git
+/saveload
+
+*.json
